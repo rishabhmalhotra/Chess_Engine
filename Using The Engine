@@ -1,8 +1,17 @@
-#Final Project for CS246
+#How to use the engine:
 
 
 Key points to keep in mind while using our chess program:
-new </player1(computer1/computer2/computer3/human)> </player2(computer1/computer2/computer3/human)> </setup type (default or manually place all pieces according to assignment rubric)>
+
+To begin a game, type: ./chess
+
+new </player1>(one of: computer1/computer2/computer3/human) </player2>(one of: computer1/computer2/computer3/human) </setup <type>> (type can be: default or manually place all pieces according to assignment rubric)
+For example:
+new computer3 computer2 setup default
+will start a new game with a default setup with white player as AI level3 and the black player as AI Level2
+
+To move, use:
+mv pos1 pos2   for example: mv e2 pos2 ...
 
 If at any point in the game you need to view the Game Analyzer, type in: 'analyze'
 
