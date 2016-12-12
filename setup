@@ -1,0 +1,35 @@
+setup
++ r a6
++ n b6
++ b c6
++ q d6
++ k e6
++ b f6
++ n g6
++ r h6
++ p a5
++ p b5
++ p c5
++ p d5
++ p e5
++ p f5
++ p g5
++ p h5
++ P a4
++ P b4
++ P c4
++ P d4
++ P e4
++ P f4
++ P g4
++ P h4
++ R a3
++ N b3
++ B c3
++ Q d3
++ K e3
++ B f3
++ N g3
++ R h3
+= black
+done
