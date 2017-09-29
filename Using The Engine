@@ -19,4 +19,5 @@ After every move, the program will show a list of all the black and white pieces
 
 To undo a move at any state in the game, simply type in: "undo".
 
-Also, if it is a human v/s AI or AI v/s AI game, at each step, information will be printed to the screen about which player is playing. (white AI or black AI)
+Also, if it is a human v/s AI or AI v/s AI game, at each step, information will be printed to the terminal screen 
+about which player is playing. (white AI or black AI)
